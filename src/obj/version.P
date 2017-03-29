@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /home/cbpool/Wallets/PROVA/src/obj/build.h
+ /home/pool/Wallets/Kratom-master/src/obj/build.h
 version.cpp version.h clientversion.h :
- /home/cbpool/Wallets/PROVA/src/obj/build.h :
+ /home/pool/Wallets/Kratom-master/src/obj/build.h :

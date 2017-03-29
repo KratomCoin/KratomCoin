@@ -8,12 +8,12 @@ obj/main.o: main.cpp alert.h uint256.h util.h netbase.h serialize.h \
  zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h \
  zerocoin/SpendMetaData.h zerocoin/../uint256.h \
  zerocoin/ParamGeneration.h txdb.h txdb-leveldb.h \
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/db.h \
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/iterator.h \
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/slice.h \
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/status.h \
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/options.h \
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/write_batch.h \
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/db.h \
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/iterator.h \
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/slice.h \
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/status.h \
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/options.h \
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/write_batch.h \
  init.h wallet.h ui_interface.h walletdb.h base58.h kernel.h
 main.cpp alert.h uint256.h util.h netbase.h serialize.h :
  allocators.h version.h clientversion.h compat.h checkpoints.h net.h :
@@ -25,10 +25,10 @@ main.cpp alert.h uint256.h util.h netbase.h serialize.h :
  zerocoin/CoinSpend.h zerocoin/SerialNumberSignatureOfKnowledge.h :
  zerocoin/SpendMetaData.h zerocoin/../uint256.h :
  zerocoin/ParamGeneration.h txdb.h txdb-leveldb.h :
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/db.h :
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/iterator.h :
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/slice.h :
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/status.h :
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/options.h :
- /home/cbpool/Wallets/Kratom-master/src/leveldb/include/leveldb/write_batch.h :
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/db.h :
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/iterator.h :
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/slice.h :
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/status.h :
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/options.h :
+ /home/pool/Wallets/Kratom-master/src/leveldb/include/leveldb/write_batch.h :
  init.h wallet.h ui_interface.h walletdb.h base58.h kernel.h :

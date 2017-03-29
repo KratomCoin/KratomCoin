@@ -1,0 +1,9 @@
+Building KratomCoin
+
+See doc/readme-qt.rst for instructions on building KratomCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KratomCoin.
+
+See doc/build-*.txt for instructions on building Kratomcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KratomCoin.
