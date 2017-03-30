@@ -1,3 +1,1 @@
-# KratomCoin# KratomCoin
-# KratomCoin
-# KratomCoin
+# KratomCoin# 
